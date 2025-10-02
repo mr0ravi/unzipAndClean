@@ -8,7 +8,7 @@ This is useful for batch extracting ZIP files in structured folders.
 ## 📂 Project Structure
 
 ```
-webcampAngela/
+example folder/
 ├─ 01/
 │   ├─ example.zip
 ├─ 02/
@@ -40,7 +40,7 @@ webcampAngela/
 1. Clone the repository or download it:
 
 ```bash
-git clone https://github.com/<your-username>/unzipAndClean.git
+git clone https://github.com/mr0ravi/unzipAndClean.git
 ```
 
 2. Navigate to the project folder:
@@ -59,7 +59,7 @@ npm install
 
 ## ▶️ Usage
 
-1. Place `unzipAndClean` folder **inside the parent folder** containing your numbered subfolders (e.g., `webcampAngela`).
+1. Place `unzipAndClean` folder **inside the parent folder** containing your numbered subfolders (e.g., `example folder`).
 2. Run the script:
 
 ```bash
